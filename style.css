@@ -15,14 +15,14 @@ body{
 }
 
 .game{
-    height: 60vmin;
-    width: 60vmin;
+    height: 60vh;
+    width: 60vh;
     background-color: aquamarine;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     justify-items: center;
-    gap: 1.5vmin;
+    gap: 1.5vh;
     margin-top: 5vh;
 
 }
